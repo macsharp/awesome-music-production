@@ -18,6 +18,7 @@ A curated list of software, hardware, and other resources to create music.
   - [Synthesizers](#synthesizers)
   - [Apps](#apps)
   - [Webapps](#webapps)
+  - [SaaS](#saas)
   - [Virtual Reality](#virtual-reality)
   - [Guitar, Ukulele, …](#guitar-ukulele-)
 - [Services](#services)
@@ -49,6 +50,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Ardour]
 - [Bitwig]
 - [Cubase]
+- [FamiStudio] - Simple music editor for the Nintendo Entertainment System.
 - [FL Studio] - A complete software music production environment.
 - [Garage Band]
 - [Giada] - Minimal audio tool for DJs, live performers and musicians.
@@ -75,6 +77,7 @@ A curated list of software, hardware, and other resources to create music.
 [Ardour]: https://ardour.org
 [Bitwig]: https://www.bitwig.com/
 [Cubase]: http://steinberg.net/en/products/cubase
+[FamiStudio]: https://bleubleu.itch.io/famistudio
 [FL Studio]: https://www.image-line.com/fl-studio/
 [Garage Band]: https://apple.com/mac/garageband
 [Giada]: https://www.giadamusic.com
@@ -254,6 +257,7 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Agordejo] - Music production session manager.
 - [Auxy] - Modern instruments for mobile creators.
+- [ChipTone] - Free tool for generating sound effects.
 - [Composer's Sketchpad] - Sequencer that combines musical staff paper with an artist's sketchbook (iOS only).
 - [Dragonfly Reverb] - Open source audio effects for Linux, macOS, and Windows.
 - [Fluajho] - Simple SF2 soundfont host and player for Linux.
@@ -283,6 +287,7 @@ A curated list of software, hardware, and other resources to create music.
 
 [Agordejo]: https://www.laborejo.org/agordejo/
 [Auxy]: http://auxy.co
+[ChipTone]: https://sfbgames.itch.io/chiptone
 [Composer's Sketchpad]: http://composerssketchpad.com
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/documentation/fluajho/english.html
@@ -331,7 +336,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
 - [Klangmeister] - Live coding environment for the browser.
 - [Klank] - Sound and animation in the browser using PureScript.
-- [Landr] - Automatic audio mastering.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
 - [Looplabs] - Cloud based music studio.
@@ -376,7 +380,6 @@ A curated list of software, hardware, and other resources to create music.
 [Keithwhor.com/music]: http://keithwhor.com/music
 [Klangmeister]: http://ctford.github.io/klangmeister
 [Klank]: https://klank.dev/
-[Landr]: https://www.landr.com
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
@@ -402,6 +405,15 @@ A curated list of software, hardware, and other resources to create music.
 [TimeStretch]: https://29a.ch/timestretch/
 [ToneBasic]: https://tonebasic--enchanter.repl.co/
 [Websynths]: http://websynths.com
+
+
+### SaaS
+
+- [Landr] - Automatic audio mastering.
+- [Virtu] - Assisted mastering.
+
+[Landr]: https://www.landr.com
+[Virtu]: https://virtu.slatedigital.com
 
 
 ### Virtual Reality
