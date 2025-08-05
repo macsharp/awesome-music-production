@@ -343,6 +343,7 @@ A curated list of software, hardware, and other resources to create music.
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
+- [Opusonix] - Collaborative planning and mix review platform for audio tracks and album projects
 - [Piano Genie] - Machine learning augmented piano app.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
@@ -388,6 +389,7 @@ A curated list of software, hardware, and other resources to create music.
 [Musical Chord Progression Arpeggiator]:
     https://codepen.io/jakealbaugh/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
+[Opusonix]: https://opusonix.com
 [Piano Genie]: https://piano-genie.glitch.me
 [QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: http://some1else.github.io/qwerkey
