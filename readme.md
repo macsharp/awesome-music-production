@@ -15,6 +15,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Software](#software)
   - [Audio Workstations](#audio-workstations)
   - [Libraries](#libraries)
+  - [Live Coding](#live-coding)
   - [Synthesizers](#synthesizers)
   - [Apps](#apps)
   - [Webapps](#webapps)
@@ -67,7 +68,7 @@ A curated list of software, hardware, and other resources to create music.
 - [Renoise] - Complete, multi-platform DAW with a music-tracker based approach.
 - [Rytmik Studio] - Music creation software.
 - [Stargate DAW] - All-in-one DAW and plugin suite for Windows, macOS and Linux.
-- [Studio One] - Complete DAW and live show sequencing.
+- [Studio One Pro] - Complete DAW and live show sequencing.
 - [TuneFlow] - Free, AI-powered DAW that provides lyrics/music generation, stem separation, MIDI transcription, as well as full editing and mixing capabilities.
 - [Waveform Pro] - A DAW designed for the needs of modern music producers.
 - [Zrythm] - Cross-platform DAW.
@@ -84,7 +85,7 @@ A curated list of software, hardware, and other resources to create music.
 [GridSound]: https://github.com/gridsound/daw
 [Helio]: https://helio.fm/
 [LMMS]: https://lmms.io/
-[Logic Pro X]: https://apple.com/logic-pro
+[Logic Pro X]: https://www.apple.com/logic-pro/
 [Meadowlark]: https://github.com/MeadowlarkDAW
 [Mixcraft]: https://acoustica.com/products/mixcraft
 [Pro Tools]: https://www.avid.com/pro-tools
@@ -94,7 +95,7 @@ A curated list of software, hardware, and other resources to create music.
 [Renoise]: https://www.renoise.com
 [Rytmik Studio]: https://store.steampowered.com/app/657280/Rytmik_Studio/
 [Stargate DAW]: https://github.com/stargatedaw/stargate
-[Studio One]: https://www.presonus.com/products/Studio-One
+[Studio One Pro]: https://www.presonus.com/pages/studio-one-pro
 [TuneFlow]: https://tuneflow.com
 [Waveform Pro]: https://www.tracktion.com/products/waveform-pro
 [Zrythm]: https://www.zrythm.org
@@ -167,10 +168,10 @@ A curated list of software, hardware, and other resources to create music.
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
 [Blip]: http://jshanley.github.io/blip
-[Cane]: https://github.com/Jackojc/cane
+[Cane]: https://github.com/tarpit-collective/cane
 [CSound]: https://csound.com/index.html
 [Dplug]: https://github.com/AuburnSounds/dplug
-[Euterpea]: http://www.euterpea.com
+[Euterpea]: https://www.euterpea.com/
 [Faust]: https://faust.grame.fr
 [FourVoices]: https://github.com/erickim555/FourVoices
 [Gwion]: https://github.com/Gwion/Gwion
@@ -198,8 +199,8 @@ A curated list of software, hardware, and other resources to create music.
 [Pop2Piano]: https://sweetcocoa.github.io/pop2piano_samples/
 [PureScript Ocarina]: https://mikesol.github.io/purescript-ocarina/
 [React Music]: https://github.com/FormidableLabs/react-music
-[React]: https://reactjs.org/
-[Repitch]: https://github.com/maxwellpollack/repitch
+[React]: https://react.dev/
+[Repitch]: https://github.com/ellapollack/repitch
 [Rust Music Theory]: https://github.com/ozankasikci/rust-music-theory
 [Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
@@ -209,7 +210,7 @@ A curated list of software, hardware, and other resources to create music.
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
 [timbre.js]: https://mohayonao.github.io/timbre.js/
-[Tonal]: https://github.com/danigb/tonal
+[Tonal]: https://github.com/tonaljs/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
 [Tuna]: https://github.com/Theodeus/tuna
 [VCV Rack]: https://vcvrack.com
@@ -234,7 +235,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
 [Glicol]: https://github.com/chaosprint/glicol
-[Klangmeister]: http://ctford.github.io/klangmeister
+[Klangmeister]: https://ctford.github.io/klangmeister/
 [Line]: https://github.com/pd3v/line
 [Pattrns]: https://pattrns.renoise.com/
 [Sardine]: https://github.com/Bubobubobubobubo/sardine
@@ -309,10 +310,10 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Dragonfly Reverb]: https://github.com/michaelwillis/dragonfly-reverb
 [Fluajho]: https://www.laborejo.org/documentation/fluajho/english.html
 [IXI Programs]: http://www.ixi-audio.net/content/software.html
-[JJazzLab]: https://www.jjazzlab.com
+[JJazzLab]: https://www.jjazzlab.org/en/
 [Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
-[Laborejo]: https://www.laborejo.org/laborejo/
+[Laborejo]: https://hilbricht.net/projects/
 [Luna]: https://github.com/clarityflowers/luna
 [Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
@@ -324,7 +325,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Polyphone]: https://www.polyphone-soundfonts.com
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
-[Seq24]: http://filter24.org/seq24/
+[Seq24]: https://filter24.org/seq24/
 [Sonic Visualiser]: https://sonicvisualiser.org
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
@@ -390,18 +391,17 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Frequency Explorer]: https://github.com/ellapollack/frex
 [Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
-[Keithwhor.com/music]: http://keithwhor.com/music
+[Keithwhor.com/music]: https://keithwhor.com/music/
 [Klank]: https://klank.dev/
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
 [Looplabs]: https://looplabs.com
 [Loudness Penalty]: https://www.loudnesspenalty.com/
 [mix check studio]: https://mixcheck.studio/
-[Musical Chord Progression Arpeggiator]:
-    https://codepen.io/jakealbaugh/pen/qNrZyw
+[Musical Chord Progression Arpeggiator]: https://codepen.io/jak_e/pen/qNrZyw
 [MyNoise]: https://mynoise.net/
 [Piano Genie]: https://piano-genie.glitch.me
-[QuasiMusic]: http://www.gregegan.net/APPLETS/34/34.html
+[QuasiMusic]: https://www.gregegan.net/APPLETS/34/34.html
 [Qwerkey]: http://some1else.github.io/qwerkey
 [Reactor]: https://lukeandersen.github.io/reactor
 [Repeater Orchestra]: https://codepen.io/barefootfunk/pen/ZWoLmo
@@ -465,7 +465,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Chordata]: https://github.com/starenka/chordata
 [Fretboard]: https://github.com/AlexMost/fretboard
 [Guitarix]: https://guitarix.org
-[SmartGuitarAmp]: https://github.com/keyth72/SmartGuitarAmp
+[SmartGuitarAmp]: https://github.com/GuitarML/SmartGuitarAmp
 [UkeGeeks]: https://github.com/buzcarter/UkeGeeks
 [Ukulele Chord Detector]: https://ukealong.com/tool/chord-detector/
 [Ukulele Chord Finder]:
@@ -477,17 +477,15 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 ### AI Music Creation
 
-- [Humtap]
 - [LAIVE]
 - [Omnizart] - Transcribe vocals, drums, chords, beats, and more.
 - [Splash] - AI-powered music creation platform.
 - [Suno AI] - AI-powered music composition and production platform.
 
-[Humtap]: https://www.humtap.com
 [LAIVE]: https://www.laive.io
 [Omnizart]: https://github.com/Music-and-Culture-Technology-Lab/omnizart
 [Splash]: https://www.splashmusic.com
-[Suno AI]: https://www.suno.ai
+[Suno AI]: https://suno.com/
 
 
 ### Music Distribution
@@ -503,7 +501,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [SoundCloud]
 - [TuneCore]
 
-[Amuse]: https://amuse.io
+[Amuse]: https://www.amuse.io/en/
 [BandCamp]: https://bandcamp.com
 [DistroKid]: https://distrokid.com
 [DittoMusic]: https://www.dittomusic.com
@@ -576,11 +574,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [LittleBits Electronic Music Inventor Kit]:
     https://sphero.com/products/littlebits-electronic-music-inventor-kit
 [Modal 002R]: https://www.modalelectronics.com/modal-002r
-[OP-1]: https://www.teenageengineering.com/products/op-1
+[OP-1]: https://teenage.engineering/products/op-1
 [Organelle]: https://critterandguitari.com/products/organelle
 [Pocket Operators]: https://www.teenageengineering.com/products/po
 [ZynAddSubFX]: https://github.com/zynaddsubfx/zynaddsubfx
-[Zynthian]: http://zynthian.org
+[Zynthian]: https://zynthian.org/
 
 
 ### MIDI Controllers
@@ -613,16 +611,16 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 
 [Artiphon]: https://artiphon.com
 [Bela]: https://bela.io
-[C-Thru Music Axis]: http://c-thru-music.com
+[C-Thru Music Axis]: https://c-thru-music.com/cgi/index.cgi
 [Continuum Fingerboard]: https://www.hakenaudio.com/continuum-fingerboard
 [DIY Controller]: https://hackaday.com/2019/07/15/getting-midi-under-control/
 [Dodeka Stellar]: https://www.dodekamusic.com/stellar/
 [dualo du-touch]: https://dualo.org
-[Eigenharp]: http://www.eigenlabs.com/info/
+[Eigenharp]: https://web.archive.org/web/20250227113752/http://www.eigenlabs.com/info/
 [Erea Touch]: https://www.embodme.com/
 [Haxophone]: https://github.com/jcard0na/haxo-hw
 [Joué]: https://www.play-joue.com/en/
-[LinnStrument]: http://www.rogerlinndesign.com/linnstrument.html
+[LinnStrument]: https://www.rogerlinndesign.com/linnstrument
 [Lumatone]: https://www.lumatone.io
 [MIDILodica]: https://github.com/XavierGerD/MIDILodica
 [Mimu Gloves]: https://mimugloves.com
@@ -634,7 +632,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Open Woodwind Project]:
   https://hackaday.io/project/2992-the-open-woodwind-project
 [OpenDeck]: https://shanteacontrols.com
-[QuNexus]: https://www.keithmcmillen.com/products/qunexus/
+[QuNexus]: https://www.musekinetics.com/products/qunexus/
 [ROLI Blocks]: https://roli.com/products/blocks/
 [Striso]: https://www.striso.org
 [XVI Desktop]:
@@ -665,11 +663,11 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [LAVA Guitar]: https://www.lavamusic.com
 [Nux Mighty Plug Pro]: https://www.nuxaudio.com/mightyplugpro.html
 [Orba]: https://artiphon.com/pages/orba-by-artiphon
-[OTTO]: https://github.com/topisani/OTTO
+[OTTO]: https://github.com/bitfieldaudio/OTTO
 [Oxi One]: https://oxiinstruments.com/oxi-one/
 [Pocket Piano]: https://www.critterandguitari.com/201-pocket-piano
 [PocketDrum]: https://www.aeroband.net/products/pocketdrum2-plus
-[Travel Sax 2]: https://www.odiseimusic.com/travel-sax
+[Travel Sax 2]: https://odiseimusic.com/travel-sax-2
 
 
 ### Workstations
@@ -771,7 +769,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 [Centre for Digital Music]: https://c4dm.eecs.qmul.ac.uk
 [Guthman Musical Instrument Competition]: https://guthman.gatech.edu
 [Harmony Explained]: https://arxiv.org/abs/1202.4212v2
-[Musical User Interfaces]: https://arthurcarabott.com/mui/
+[Musical User Interfaces]: https://www.arthurcarabott.com/mui/
 [Universal Music Translation Network]:
     https://research.facebook.com/publications/a-universal-music-translation-network/
 [VR Instruments]: https://www.mitpressjournals.org/doi/pdf/10.1162/COMJ_a_00372
