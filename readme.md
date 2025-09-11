@@ -116,7 +116,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Faust] - Functional programming language
     for sound synthesis and audio processing.
 - [FourVoices] - Automatic music generator for four-part writing.
-- [Glicol] - Graph-oriented live coding language and music/audio DSP library written in Rust.
 - [Gwion] - A strongly-timed programming language aimed at music creation. Heavily inspired by ChucK.
 - [Houdini Music Toolset] - Adding MIDI functionality to 3D program [Houdini].
 - [Klasma] - Chiptune music composition kit.
@@ -145,7 +144,6 @@ A curated list of software, hardware, and other resources to create music.
 - [React Music] - Create beats with [React].
 - [Repitch] - Real-time polyphonic MIDI-controlled audio pitch shifting.
 - [Rust Music Theory] - A music theory guide written in Rust.
-- [Sardine] - A music live coding library for Python.
 - [Scribbletune] - Create music with JavaScript.
 - [Sharp11] - Music theorization and improvisation engine.
 - [Slang] - Simple audio programming language implemented in JavaScript.
@@ -153,8 +151,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Spleeter] - Source separation library (e.g. extract drums from a track).
 - [Step Sequencer] - Elm step sequencer for programming drum beats.
 - [Teoria] - JavaScript library for music theory.
-- [TidalCycles] - Programming language to describe polyphonic, polyrhythmic,
-    and generative music sequences.
 - [timbre.js] - JavaScript library for objective sound programming.
 - [Tonal] - Functional music theory library.
 - [Tone.js] - A Web Audio framework for making interactive music in the browser.
@@ -167,7 +163,6 @@ A curated list of software, hardware, and other resources to create music.
 [Alda]: https://github.com/alda-lang/alda
 [Augmented Audio]: https://github.com/yamadapc/augmented-audio
 [Megra.rs]: https://github.com/the-drunk-coder/megra.rs
-[Glicol]: https://github.com/chaosprint/glicol
 [ATM CLI]: https://github.com/allthemusicllc/atm-cli
 [Aubio]: https://aubio.org
 [Band.js]: https://github.com/meenie/band.js
@@ -206,7 +201,6 @@ A curated list of software, hardware, and other resources to create music.
 [React]: https://reactjs.org/
 [Repitch]: https://github.com/maxwellpollack/repitch
 [Rust Music Theory]: https://github.com/ozankasikci/rust-music-theory
-[Sardine]: https://github.com/Bubobubobubobubo/sardine
 [Scribbletune]: https://github.com/scribbletune/scribbletune
 [Sharp11]: https://github.com/jsrmath/sharp11
 [Slang]: http://slang.kylestetz.com
@@ -214,7 +208,6 @@ A curated list of software, hardware, and other resources to create music.
 [Spleeter]: https://github.com/deezer/spleeter
 [Step Sequencer]: https://github.com/bholtbholt/step-sequencer
 [Teoria]: https://github.com/saebekassebil/teoria
-[TidalCycles]: https://tidalcycles.org
 [timbre.js]: https://mohayonao.github.io/timbre.js/
 [Tonal]: https://github.com/danigb/tonal
 [Tone.js]: https://github.com/Tonejs/Tone.js
@@ -223,6 +216,32 @@ A curated list of software, hardware, and other resources to create music.
 [Verovio]: https://www.verovio.org
 [Vexwarp]: https://github.com/0xfe/vexwarp
 [Vivid]: https://vivid-synth.com
+
+
+### Live Coding
+
+- [Glicol] - Graph-oriented live coding language and music/audio DSP library written in Rust.
+- [Klangmeister] - Live coding environment for the browser.
+- [Line] - CLI MIDI sequencer and language for live coding.
+- [Pattrns] - Music sequence generator engine for algorithmic or live music coding.
+- [Sardine] - A music live coding library for Python.
+- [Sonic Pi] - Live coding music synth for everyone.
+- [Strudel] - Web-based environment for live coding algorithmic patterns.
+- [TidalCycles] - Programming language to describe polyphonic, polyrhythmic, and generative music sequences.
+- [Zwirn] - Playing with nested functions of time.
+
+Find more resources at [Awesome Livecoding] - A curated list of live coding languages and tools.
+
+[Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
+[Glicol]: https://github.com/chaosprint/glicol
+[Klangmeister]: http://ctford.github.io/klangmeister
+[Line]: https://github.com/pd3v/line
+[Pattrns]: https://pattrns.renoise.com/
+[Sardine]: https://github.com/Bubobubobubobubo/sardine
+[Sonic Pi]: https://github.com/samaaron/sonic-pi
+[Strudel]: https://strudel.cc
+[TidalCycles]: https://tidalcycles.org
+[Zwirn]: https://codeberg.org/uzu/zwirn
 
 
 ### Synthesizers
@@ -266,7 +285,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Konfyt] - Digital keyboard workstation for Linux.
 - [KXStudio] - Collection of applications and plugins for audio production.
 - [Laborejo] - MIDI sequencer based on classical music notation.
-- [Line] - CLI MIDI sequencer and language for live coding.
 - [Luna] - MIDI sequencer.
 - [Max] - Visual programming language for music and multimedia creation.
 - [Melodics] - Desktop app to teach playing MIDI keyboards, pads, and e-drums.
@@ -279,7 +297,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Samplr] - Multi-touch music making app for iPad.
 - [SeekMIDI] - Graphical multi channel MIDI sequencer.
 - [Seq24] - Minimal loop based midi sequencer.
-- [Sonic Pi] - Live coding music synth for everyone.
 - [Sonic Visualiser] - Visualize, analyze, and annotate music audio recordings.
 - [Spire] - iOS multitrack recording app with FX & mixing features.
 - [Transcribe!] - App to help transcribe recorded music.
@@ -296,7 +313,6 @@ A curated list of software, hardware, and other resources to create music.
 [Konfyt]: https://github.com/noedigcode/konfyt
 [KXStudio]: https://kx.studio
 [Laborejo]: https://www.laborejo.org/laborejo/
-[Line]: https://github.com/pd3v/line
 [Luna]: https://github.com/clarityflowers/luna
 [Max]: https://cycling74.com/products/max
 [Melodics]: https://melodics.com
@@ -309,7 +325,6 @@ A curated list of software, hardware, and other resources to create music.
 [Samplr]: http://samplr.net
 [SeekMIDI]: https://oldtechaa.github.io/SeekMIDI/
 [Seq24]: http://filter24.org/seq24/
-[Sonic Pi]: https://github.com/samaaron/sonic-pi
 [Sonic Visualiser]: https://sonicvisualiser.org
 [Spire]: https://apps.apple.com/us/app/spire-music-recorder/id1013021109
 [Transcribe!]: https://www.seventhstring.com/xscribe/overview.html
@@ -334,7 +349,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Funklet] - Drum machine and library of famous drum patterns.
 - [Jamwithchrome] - Play music live with your friends online.
 - [Keithwhor.com/music] - Musical Keyboard - JS Dynamic Audio Synth.
-- [Klangmeister] - Live coding environment for the browser.
 - [Klank] - Sound and animation in the browser using PureScript.
 - [Lissajous] - A tool for programmatic audio performance in the browser.
 - [Loopjs] - Live Electronic Music Performance Software.
@@ -353,7 +367,6 @@ A curated list of software, hardware, and other resources to create music.
 - [Song Maker] - Simple step sequencer.
 - [Sononym] - Visual sample browser.
 - [Splice] - Music creation and collaboration platform.
-- [Strudel] - Web-based environment for live coding algorithmic patterns.
 - [SuperCollider] - Platform for audio synthesis and algorithmic composition.
 - [Synth Time] - Simple synthesizer.
 - [Synthi-JS] - A JavaScript emulator of the legendary EMS Synthi A synthesizer.
@@ -378,7 +391,6 @@ A curated list of software, hardware, and other resources to create music.
 [Funklet]: http://funklet.com
 [Jamwithchrome]: http://jamwithchrome.com
 [Keithwhor.com/music]: http://keithwhor.com/music
-[Klangmeister]: http://ctford.github.io/klangmeister
 [Klank]: https://klank.dev/
 [Lissajous]: https://github.com/kylestetz/lissajous
 [Loopjs]: http://loopjs.com
@@ -398,7 +410,6 @@ A curated list of software, hardware, and other resources to create music.
 [Song Maker]: https://musiclab.chromeexperiments.com/Song-Maker/
 [Sononym]: https://www.sononym.net
 [Splice]: https://splice.com
-[Strudel]: https://strudel.cc
 [SuperCollider]: https://supercollider.github.io
 [Synth Time]: http://codepen.io/mattgreenberg/pen/gPdqBb
 [Synthi-JS]: http://alexnisnevich.github.io/synthi-js
@@ -684,7 +695,6 @@ A curated list of software, hardware, and other resources to create music.
 
 - [Audio Working Group] - Add advanced sound & music synthesis capabilities
     to the Open Web Platform.
-- [Awesome Livecoding] - A curated list of livecoding languages and tools.
 - [Awesome Sheet Music] - Curated list of tools to create,
     edit, and display sheet music.
 - [Awesome WebAudio] - A curated list of awesome WebAudio packages and demos.
@@ -701,7 +711,6 @@ A curated list of software, hardware, and other resources to create music.
 - [youtube.com/i_0DXxNeaQ0] - The science and mathematics of music.
 
 [Audio Working Group]: https://www.w3.org/2011/audio/
-[Awesome Livecoding]: https://github.com/toplap/awesome-livecoding
 [Awesome Sheet Music]: https://github.com/ad-si/awesome-sheet-music
 [Awesome WebAudio]: https://github.com/notthetup/awesome-webaudio
 [Digital Filters Introduction]:
