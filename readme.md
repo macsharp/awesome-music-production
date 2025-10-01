@@ -358,7 +358,7 @@ Find more resources at [Awesome Livecoding] - A curated list of live coding lang
 - [mix check studio] - Check your mixes and masters for common issues.
 - [Musical Chord Progression Arpeggiator] - Sketch out musical chord progressions.
 - [MyNoise] - Background noises and interactive soundscapes.
-- [Opusonix] - Collaborative planning and mix review platform for audio tracks and album projects
+- [Opusonix] - Collaborative planning and mix review platform for tracks and albums.
 - [Piano Genie] - Machine learning augmented piano app.
 - [QuasiMusic] - Quasiperiodic tilings of the plane as sound triggers.
 - [Qwerkey] - Keyboard tonnetz.
